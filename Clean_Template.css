@@ -197,6 +197,14 @@ img {border:none !important;}
 #ads div a { text-decoration:underline; color:#7a7777; font-weight:bold;}
 #ads div a:hover { text-decoration:none; color:#7a7777;}
 
+/* Homepage, hover fade */
+.zWrapper {position:relative !important;}
+.zHover {position:absolute !important;top:0 !important;left:0 !important;display:block !important;} 
+.zTop {z-index:2 !important;}
+.zBottom {z-index:1 !important;}
+
+
+
 /* ==========================================================================
    FOOTER - BASE STYLES
    ========================================================================== */
